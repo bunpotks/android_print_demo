@@ -1,0 +1,17 @@
+com.posprinter.printdemo.app-transition-1.0.0-0 /Users/doublem/.gradle/caches/transforms-3/4c56d7bd17f6a127a154315066c41e88/transformed/transition-1.0.0/res
+com.posprinter.printdemo.app-appcompat-1.0.0-1 /Users/doublem/.gradle/caches/transforms-3/500d961bcb0b5d815367365c7b2a7852/transformed/appcompat-1.0.0/res
+com.posprinter.printdemo.app-cardview-1.0.0-2 /Users/doublem/.gradle/caches/transforms-3/7c7a8c29ecce42e20d903e3a51f8df85/transformed/cardview-1.0.0/res
+com.posprinter.printdemo.app-recyclerview-1.0.0-3 /Users/doublem/.gradle/caches/transforms-3/80982afc3ffacfd3e547d41c135be4d5/transformed/recyclerview-1.0.0/res
+com.posprinter.printdemo.app-coordinatorlayout-1.0.0-4 /Users/doublem/.gradle/caches/transforms-3/9799da5c1e0689f1193d2bfe97eafa0b/transformed/coordinatorlayout-1.0.0/res
+com.posprinter.printdemo.app-material-1.0.0-5 /Users/doublem/.gradle/caches/transforms-3/a4db26b0fb38a1ec94d3074bd95e9b3e/transformed/material-1.0.0/res
+com.posprinter.printdemo.app-core-1.0.0-6 /Users/doublem/.gradle/caches/transforms-3/b435c9c9cde5a7559bf6855b099cbe7a/transformed/core-1.0.0/res
+com.posprinter.printdemo.app-constraintlayout-1.1.3-7 /Users/doublem/.gradle/caches/transforms-3/ed17b228528a4ae462a20d34a093e396/transformed/constraintlayout-1.1.3/res
+com.posprinter.printdemo.app-jetified-Zxing-v1.0.3-8 /Users/doublem/.gradle/caches/transforms-3/f05013a6e3a9be432fdbc99bb49c14ad/transformed/jetified-Zxing-v1.0.3/res
+com.posprinter.printdemo.app-pngs-9 /Users/doublem/Desktop/Android_SDK/Android_SDK_20190422/PrintDemo/app/build/generated/res/pngs/debug
+com.posprinter.printdemo.app-resValues-10 /Users/doublem/Desktop/Android_SDK/Android_SDK_20190422/PrintDemo/app/build/generated/res/resValues/debug
+com.posprinter.printdemo.app-rs-11 /Users/doublem/Desktop/Android_SDK/Android_SDK_20190422/PrintDemo/app/build/generated/res/rs/debug
+com.posprinter.printdemo.app-mergeDebugResources-12 /Users/doublem/Desktop/Android_SDK/Android_SDK_20190422/PrintDemo/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.posprinter.printdemo.app-mergeDebugResources-13 /Users/doublem/Desktop/Android_SDK/Android_SDK_20190422/PrintDemo/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.posprinter.printdemo.app-merged_res-14 /Users/doublem/Desktop/Android_SDK/Android_SDK_20190422/PrintDemo/app/build/intermediates/merged_res/debug
+com.posprinter.printdemo.app-debug-15 /Users/doublem/Desktop/Android_SDK/Android_SDK_20190422/PrintDemo/app/src/debug/res
+com.posprinter.printdemo.app-main-16 /Users/doublem/Desktop/Android_SDK/Android_SDK_20190422/PrintDemo/app/src/main/res

@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "com.posprinter.printdemo.app-merged_res-14:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.posprinter.printdemo.app-main-16:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.posprinter.printdemo.app-merged_res-14:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.posprinter.printdemo.app-main-16:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.posprinter.printdemo.app-merged_res-14:/drawable_connetpor_selector.xml.flat",
+        "source": "com.posprinter.printdemo.app-main-16:/drawable/connetpor_selector.xml"
+    },
+    {
+        "merged": "com.posprinter.printdemo.app-merged_res-14:/layout_activity_tsc.xml.flat",
+        "source": "com.posprinter.printdemo.app-main-16:/layout/activity_tsc.xml"
+    },
+    {
+        "merged": "com.posprinter.printdemo.app-merged_res-14:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.posprinter.printdemo.app-main-16:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.posprinter.printdemo.app-merged_res-14:/drawable_spiner_selector.xml.flat",
+        "source": "com.posprinter.printdemo.app-main-16:/drawable/spiner_selector.xml"
+    },
+    {
+        "merged": "com.posprinter.printdemo.app-merged_res-14:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.posprinter.printdemo.app-main-16:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.posprinter.printdemo.app-merged_res-14:/layout_printer_list.xml.flat",
+        "source": "com.posprinter.printdemo.app-main-16:/layout/printer_list.xml"
+    },
+    {
+        "merged": "com.posprinter.printdemo.app-merged_res-14:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.posprinter.printdemo.app-main-16:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.posprinter.printdemo.app-merged_res-14:/layout_activity_first.xml.flat",
+        "source": "com.posprinter.printdemo.app-main-16:/layout/activity_first.xml"
+    },
+    {
+        "merged": "com.posprinter.printdemo.app-merged_res-14:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.posprinter.printdemo.app-main-16:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.posprinter.printdemo.app-merged_res-14:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.posprinter.printdemo.app-main-16:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.posprinter.printdemo.app-merged_res-14:/layout_usb_link.xml.flat",
+        "source": "com.posprinter.printdemo.app-main-16:/layout/usb_link.xml"
+    },
+    {
+        "merged": "com.posprinter.printdemo.app-merged_res-14:/layout_activity_main.xml.flat",
+        "source": "com.posprinter.printdemo.app-main-16:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.posprinter.printdemo.app-merged_res-14:/drawable_customer_button_selector.xml.flat",
+        "source": "com.posprinter.printdemo.app-main-16:/drawable/customer_button_selector.xml"
+    },
+    {
+        "merged": "com.posprinter.printdemo.app-merged_res-14:/layout_activity_z76.xml.flat",
+        "source": "com.posprinter.printdemo.app-main-16:/layout/activity_z76.xml"
+    },
+    {
+        "merged": "com.posprinter.printdemo.app-merged_res-14:/drawable_radial_button_selector.xml.flat",
+        "source": "com.posprinter.printdemo.app-main-16:/drawable/radial_button_selector.xml"
+    },
+    {
+        "merged": "com.posprinter.printdemo.app-merged_res-14:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.posprinter.printdemo.app-main-16:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.posprinter.printdemo.app-merged_res-14:/layout_activity_pos.xml.flat",
+        "source": "com.posprinter.printdemo.app-main-16:/layout/activity_pos.xml"
+    },
+    {
+        "merged": "com.posprinter.printdemo.app-merged_res-14:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.posprinter.printdemo.app-main-16:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.posprinter.printdemo.app-merged_res-14:/drawable_square_button_selector.xml.flat",
+        "source": "com.posprinter.printdemo.app-main-16:/drawable/square_button_selector.xml"
+    },
+    {
+        "merged": "com.posprinter.printdemo.app-merged_res-14:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.posprinter.printdemo.app-main-16:/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]
